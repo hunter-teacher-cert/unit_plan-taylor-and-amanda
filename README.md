@@ -1,16 +1,16 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Post-AP Game Development Unit
+by Taylor Grant-Knight and Wei (Amanda) Lee
 
 -----
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
-
+AP CS A after the AP Exam
 ---
 
 ### Motivation for Unit
 (why have you decided to make this?)
-
+Fits with the Object-focused Java language
 ---
 
 ### Standards Referenced

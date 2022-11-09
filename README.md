@@ -5,6 +5,7 @@ by Taylor Grant-Knight and Wei (Amanda) Lee
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
+
 AP CS A after the AP Exam
 Students will learn and understand how videogames are implemented 
 They will explore the designs of childhood games and break down the core focus of the game
@@ -16,6 +17,7 @@ They will explore the designs of childhood games and break down the core focus o
 
 ### Motivation for Unit
 (why have you decided to make this?)
+
 Fits with the Object-focused Java language
 Most students who are interested in Computer Science come from interests of video games.
 
@@ -40,21 +42,33 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
+Programming Language: Java
+Programming Environment: Replit
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
 
+YouTube tutorials for instructional support (TBD)
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
+Topic 1: Game Research
+- Lesson 1: Research a Game
+Topic 2: Game Development
 ---
 
 ### Assesments
 (list summative and/or formative assessments used)
 
+Formative Assessments:
+- Game Design Doc (written plan)
+- Practice Game
+
+Summative Assessment:
+- Final Game Project
 ---

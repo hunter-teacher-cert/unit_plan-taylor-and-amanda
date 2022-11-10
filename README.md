@@ -39,35 +39,44 @@ List The NY State Computer Science standards you will be covering in this unit. 
 - CRD-2.F.7 - The design phase of a program may include: ●        brainstorming ●        planning and storyboarding ●        organizing the program into modules and functional components ●        creation of diagrams that represent the layouts of the user interface ●
 ---
 
-### Tools Used
+### >Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
 Programming Language: Java
 Programming Environment: Replit
 ---
 
-### Resources
+### >Resources
 (include any links/books/readings to be used during this unit)
 
 YouTube tutorials for instructional support (TBD)
 ---
 
-### Lessons
+### >Lessons
 Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
+Basic Setup
+Adding images into the IDE
+Intro to Animation
+Shapes and user input (keyboard/mpouse)
+collision 
+Adding text
+Game logic
 Topic 1: Game Research
 - Lesson 1: Research a Game
 Topic 2: Game Development
+
 ---
 
-### Assesments
+### >Assesments
 (list summative and/or formative assessments used)
 
 Formative Assessments:
 - Game Design Doc (written plan)
 - Practice Game
+- Checkpoints 
 
 Summative Assessment:
 - Final Game Project

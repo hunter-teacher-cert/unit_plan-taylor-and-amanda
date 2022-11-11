@@ -58,15 +58,15 @@ Total lenght: 2 Weeks
 (list each lesson with main topic(s))
 
 1. Basic Setup
-Adding images into the IDE
-Intro to Animation
-Shapes and user input (keyboard/mpouse)
-collision 
-Adding text
-Game logic
-Topic 1: Game Research
+2. Adding images into the IDE
+3. Intro to Animation
+4. Shapes and user input (keyboard/mpouse)
+5. collision 
+6. Adding text
+7. Game logic
+8. Topic 1: Game Research
 - Lesson 1: Research a Game
-Topic 2: Game Development
+9. Topic 2: Game Development
 
 ---
 

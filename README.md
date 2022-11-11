@@ -57,7 +57,7 @@ Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
-Basic Setup
+1. Basic Setup
 Adding images into the IDE
 Intro to Animation
 Shapes and user input (keyboard/mpouse)

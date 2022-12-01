@@ -1,6 +1,21 @@
 Main objective
+  Students will be able to
+    import sound (wav files) 
+    implement sound methods
+      
 Standards
 In class exercises
+  create Sound class
+  implement playMusic() that loops, playSE(), stop()
+
 Notes
+  AudioInputStream class
+  AudioSystem class
+  Clip class
+  
 Resources
+  For free sound effect music: https://mixkit.co/free-sound-effects/
+  
 Assignments
+  Update 2D game so that character has sound effects when interacting with world objects
+  add background music

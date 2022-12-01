@@ -1,6 +1,22 @@
 Main objective
+  Students will be able to 
+    Understand the concept behind hitboxes
+    Understand the concept behind collision
+    Apply collision in their 2D game
+    
+    
 Standards
 In class exercises
+  Students need some tiles in the game to act as blocks for collision
+  Set sprite solid (hit box) area
+  Set up collisionChecker
+
 Notes
+  Need boolean to turn on and off collision
+  Creating a hitbix within the sprite
+  What happens to sprites after collision is detected?
+
 Resources
+
 Assignments
+  Update their game so that the character sprite can detect collision

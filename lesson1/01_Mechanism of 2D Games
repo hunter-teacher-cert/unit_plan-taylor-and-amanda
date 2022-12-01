@@ -1,6 +1,20 @@
-Main objective
+Main objective: 
+  - 2D Game Development
+  - build using default java libraries
 Standards
 In class exercises
 Notes
 Resources
 Assignments
+
+
+1. Students set up the project
+  - Creating a driver class
+  - window for the user to play on with JFrame
+  
+  
+2. Game mech
+  - 2d games are always running
+  - series of static pictures that is updated, like hand drawn animations
+  - fps 60 = updates the screen 60 times per second (series of 60 static image)
+  - so we need to create time

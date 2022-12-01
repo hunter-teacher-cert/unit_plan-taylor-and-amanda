@@ -1,6 +1,26 @@
 Main objective
+  Students can define and identify game loops
+  Use a while loop to simulate game play
+  
 Standards
+
+
 In class exercises
+  Use of while loop and proper conditions
+  implementing an update() method that will update information (such as character position/movement)
+  implementing a paintComponent() that will draw the screen with the updated information
+  Creating a KeyHandler class to gather user key input
+  
 Notes
+  Students will be following along with examples in class
+  KeyEvent
+  KeyListener
+  Graphics
+  2DGraphics
+  
 Resources
+  source code for GamePanel and KeyHandler
+  
+  
 Assignments
+  Update their game so that user can move a rectangle around the game panel window

@@ -1,6 +1,21 @@
 Main objective
+  Students will be able to
+    Implement Object Collision
+    Implement Object Reaction
+    
 Standards
+
 In class exercises
+  update all OBJ_objects with collision boolean
+  implement int checkObject() method in CollisionChecker class
+  .intersects() method of the Rectangle class
+  
+
 Notes
+  Need Rectangle for solid area for objects
+
 Resources
+  src folder
+
 Assignments
+  Update the 2D game so that students can implement simple object interactions

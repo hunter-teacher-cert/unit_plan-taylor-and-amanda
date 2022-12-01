@@ -1,6 +1,24 @@
 Main objective
+  Students will be able to 
+    Animate sprites using different sprite frames/movements
+    Apply programming to create a moving sprite
+    
 Standards
+
+
 In class exercises
+  Going over spriters-resources
+  Students will create a resource folder and needed packages for their character sprites
+  Demonstrate how moving frames work in animation
+  Demonstrate how speed affects frame rate
+  
 Notes
+  Students will need BufferedImage and ImageIO
+
 Resources
+  spriters-resource.com/
+  resouce folder 
+  select packages for their sprites
+  
 Assignments
+  Update their game so that it's no longer a white moving rectangle, but an animated character

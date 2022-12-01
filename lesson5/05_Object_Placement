@@ -1,6 +1,25 @@
 Main objective
+  Students will be able to 
+    Insert "objects" into their 2D game
+    Object Placement in map
+    
 Standards
+
+
 In class exercises
+  Have students create SuperObject, OBJ_object1, OBJ_object2, OBJ_object3, AssetSetter classes
+  Implement a draw() method for SuperObject
+  modify main update() code to draw the array of objects with for loop
+
 Notes
+  Array of objects that allow 10 to be placed on the map at once
+  SuperObject class to extend to all objects
+  
+
 Resources
+  object resource images
+  src code
+
 Assignments
+  Update their game so that they have multiple objects on their map
+ 

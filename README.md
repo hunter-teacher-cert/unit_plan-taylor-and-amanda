@@ -18,7 +18,8 @@ They will explore the designs of childhood games and break down the core focus o
 ### Motivation for Unit
 (why have you decided to make this?)
 
-Fits with the Object-focused Java language
+We decided to make this unit because it fits with the Object-focused Java language
+It challenges students and uses all the content learned from the year
 Most students who are interested in Computer Science come from interests of video games.
 
 ---
@@ -57,16 +58,18 @@ Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
-1. Basic Setup
-2. Adding images into the IDE
-3. Intro to Animation
-4. Shapes and user input (keyboard/mpouse)
-5. collision 
-6. Adding text
-7. Game logic
-8. Topic 1: Game Research
-- Lesson 1: Research a Game
-9. Topic 2: Game Development
+1. Basic Setup (Intro to Game Mechanics)
+2. Game Loops & User Input
+3. Sprites &  Animation
+4. **Optional: Background tiles and camera
+5. Collision Detection
+6. Object Placement
+7. Object Interaction
+8. Sound & Music
+9. UI & Rendering Performance
+10. Project: Drafts
+11. Project: Coding
+12. Peer Review/Gallery Walk
 
 ---
 
@@ -80,4 +83,4 @@ Formative Assessments:
 
 Summative Assessment:
 - Final Game Project
----
+

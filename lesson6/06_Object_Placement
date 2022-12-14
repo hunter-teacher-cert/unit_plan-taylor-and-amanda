@@ -4,7 +4,9 @@ Main objective
     Object Placement in map
     
 Standards
-
+  - 9-12.CT.4: Implement a program using a combination of student-defined and third-party functions to organize the computation.
+  - 9-12.CT.7: Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+  - 9-12.CT.8: Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
 
 In class exercises
   Have students create SuperObject, OBJ_object1, OBJ_object2, OBJ_object3, AssetSetter classes

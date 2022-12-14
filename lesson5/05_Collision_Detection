@@ -4,8 +4,10 @@ Main objective
     Understand the concept behind collision
     Apply collision in their 2D game
     
-    
 Standards
+  - 9-12.CT.8: Implement a program using a combination of student-defined and third-party functions to organize the computation.
+  - 9-12.CT.8: Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
+
 In class exercises
   Students need some tiles in the game to act as blocks for collision
   Set sprite solid (hit box) area

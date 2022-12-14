@@ -61,15 +61,14 @@ Total lenght: 2 Weeks
 1. Basic Setup (Intro to Game Mechanics)
 2. Game Loops & User Input
 3. Sprites &  Animation
-4. **Optional: Background tiles and camera
-5. Collision Detection
-6. Object Placement
-7. Object Interaction
-8. Sound & Music
-9. UI & Rendering Performance
-10. Project: Drafts
-11. Project: Coding
-12. Peer Review/Gallery Walk
+4. Collision Detection
+5. Object Placement
+6. Object Interaction
+7. Sound & Music
+8. UI & Rendering Performance
+9. Project: Drafts
+10. Project: Coding
+11. Peer Review/Gallery Walk
 
 ---
 

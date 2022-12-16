@@ -44,19 +44,20 @@ List The NY State Computer Science standards you will be covering in this unit. 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
 Programming Language: Java
-Programming Environment: Replit
+Programming Environment: Replit/Netbeans/Eclipse
+
 ---
 
 ### >Resources
 (include any links/books/readings to be used during this unit)
 
-YouTube tutorials for instructional support (TBD)
+Java YouTube tutorials for instructional support 
+Sprites & backgrounds: https://spriters-resource.com/
+Music: https://freesound.org/
 ---
 
 ### >Lessons
 Total lenght: 2 Weeks
-
-(list each lesson with main topic(s))
 
 1. Basic Setup (Intro to Game Mechanics)
 2. Game Loops & User Input
